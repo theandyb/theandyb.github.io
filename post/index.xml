@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hugo tranquilpeak theme</title>
+    <title>Posts on Andy T. Beck</title>
     <link>https://www.andytbeck.com/post/</link>
-    <description>Recent content in Posts on Hugo tranquilpeak theme</description>
+    <description>Recent content in Posts on Andy T. Beck</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://www.andytbeck.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.andytbeck.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting this site up</title>
+      <link>https://www.andytbeck.com/2021/01/index.en-us/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.andytbeck.com/2021/01/index.en-us/</guid>
+      <description>&lt;p&gt;In this post, I will document the steps I took to get this site live. Hopefully it will serve as a helpful resource for anyone who might be looking to do something similar (i.e., build a blog using blogdown, host it using github pages, use a custom domain name, etc).&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Hello R Markdown</title>
       <link>https://www.andytbeck.com/2020/12/hello-r-markdown/</link>
