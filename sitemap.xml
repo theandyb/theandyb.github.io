@@ -3,72 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://andytbeck.com/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andytbeck.com/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://example.com/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andytbeck.com/post/</loc>
+    <loc>https://example.com/post/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andytbeck.com/archives/</loc>
+    <loc>https://example.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andytbeck.com/post/markdown-syntax/</loc>
+    <loc>https://example.com/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andytbeck.com/series/</loc>
+    <loc>https://example.com/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andytbeck.com/series/themes-guide/</loc>
+    <loc>https://example.com/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andytbeck.com/post/rich-content/</loc>
+    <loc>https://example.com/post/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andytbeck.com/post/placeholder-text/</loc>
+    <loc>https://example.com/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andytbeck.com/contact/</loc>
+    <loc>https://example.com/contact/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andytbeck.com/post/math-typesetting/</loc>
+    <loc>https://example.com/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andytbeck.com/post/emoji-support/</loc>
+    <loc>https://example.com/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andytbeck.com/post/image-test/</loc>
+    <loc>https://example.com/post/image-test/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andytbeck.com/about/</loc>
+    <loc>https://example.com/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
