@@ -1,0 +1,60 @@
+---
+title: Test Post
+author: Andy Beck
+date: '2022-11-14'
+slug: []
+categories:
+  - Generic
+tags:
+  - test
+subtitle: ''
+lastmod: '2022-11-14T23:08:14-05:00'
+authorLink: ''
+description: ''
+license: ''
+images: []
+featuredImage: ''
+featuredImagePreview: ''
+hiddenFromHomePage: no
+hiddenFromSearch: no
+twemoji: no
+lightgallery: yes
+ruby: yes
+fraction: yes
+fontawesome: yes
+linkToMarkdown: yes
+rssFullText: no
+toc:
+  enable: yes
+  auto: yes
+code:
+  copy: yes
+  maxShownLines: 50
+math:
+  enable: no
+mapbox: ~
+share:
+  enable: yes
+comment:
+  enable: yes
+library:
+  css: ~
+  js: ~
+seo:
+  images: []
+---
+
+## Introduction
+
+I am curious as to how this will render on my website
+
+### Plots!
+
+Let's make a few plots!
+
+```{r, message=FALSE}
+library(tidyverse)
+cars %>%
+  ggplot(aes(x = dist, y = speed)) + geom_point()
+```
+
