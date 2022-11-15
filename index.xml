@@ -4,7 +4,7 @@
         <link>https://andytbeck.com/</link>
         <description>Andy Beck: Statistician</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>beckandy@umich.edu (Andy Beck)</managingEditor>
-            <webMaster>beckandy@umich.edu (Andy Beck)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
+            <webMaster>beckandy@umich.edu (Andy Beck)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate>
             <atom:link href="https://andytbeck.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Theme Documentation - Basics</title>
@@ -37,14 +37,6 @@
     <author>Dillon</author>
     <guid>https://andytbeck.com/theme-documentation-extended-shortcodes/</guid>
     <description><![CDATA[<p><strong>LoveIt</strong> theme provides multiple shortcodes on top of built-in ones in Hugo.</p>]]></description>
-</item>
-<item>
-    <title>Basic Markdown Syntax</title>
-    <link>https://andytbeck.com/basic-markdown-syntax/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>https://andytbeck.com/basic-markdown-syntax/</guid>
-    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
 </item>
 <item>
     <title>Theme Documentation - mermaid Shortcode</title>
@@ -87,6 +79,15 @@
     <author>Dillon</author>
     <guid>https://andytbeck.com/theme-documentation-music-shortcode/</guid>
     <description><![CDATA[<p>The <code>music</code> shortcode embeds a responsive music player based on <a href="https://github.com/MoePlayer/APlayer" target="_blank" rel="noopener noreffer ">APlayer</a> and <a href="https://github.com/metowolf/MetingJS" target="_blank" rel="noopener noreffer ">MetingJS</a>.</p>]]></description>
+</item>
+<item>
+    <title>Theme Documentation - bilibili Shortcode</title>
+    <link>https://andytbeck.com/theme-documentation-bilibili-shortcode/</link>
+    <pubDate>Tue, 03 Mar 2020 11:29:41 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>https://andytbeck.com/theme-documentation-bilibili-shortcode/</guid>
+    <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
+<p>The <code>bilibili</code> shortcode embeds a responsive video player for bilibili videos.</p>]]></description>
 </item>
 </channel>
 </rss>
