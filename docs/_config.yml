@@ -30,7 +30,7 @@ twitter_username:
 github_username:  theandyb
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
 
