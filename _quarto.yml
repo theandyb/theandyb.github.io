@@ -12,7 +12,9 @@ website:
 
 format:
   html:
+    respect-user-color-scheme: true
     theme:
-      - journal
+      light: journal
+      dark: cyborg
     css: styles.css
     toc: true
