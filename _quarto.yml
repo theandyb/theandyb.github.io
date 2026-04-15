@@ -13,10 +13,6 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - journal
     css: styles.css
     toc: true
-
-editor: visual
-
