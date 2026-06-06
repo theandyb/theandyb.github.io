@@ -8,13 +8,18 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - text: Running
+        menu:
+          - href: race-reports/index.qmd
+            text: "Running Blog"
+          - href: running-pbs.qmd
+            text: "Personal Bests / Progression"
 
 format:
   html:
     respect-user-color-scheme: true
-    theme:
-      light: journal
-      dark: cyborg
+    theme: journal
     css: styles.css
     toc: true

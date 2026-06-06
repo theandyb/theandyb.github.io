@@ -1,0 +1,16 @@
+---
+title: "Race Reports and Training Journal"
+subtitle: "Documenting my training as I strive to break 2:30 in the marathon"
+listing:
+  contents: "."
+  type: grid
+  sort: "date desc"
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  fields: [date, title, reading-time, description, categories]
+page-layout: full
+title-block-banner: true
+---
+
+Testing...
