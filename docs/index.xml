@@ -16,7 +16,7 @@
       
       <guid>https://andytbeck.com/posts/myfirstpost/</guid>
       <description>This is my first post on my site</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andytbeck.com/posts/myfirstpost/featured.jpg" />
     </item>
     
   </channel>
