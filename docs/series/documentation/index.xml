@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation on Blowfish</title>
+    <link>https://andytbeck.com/series/documentation/</link>
+    <description>Recent content in Documentation on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://andytbeck.com/series/documentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome to Blowfish</title>
+      <link>https://andytbeck.com/docs/welcome/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://andytbeck.com/docs/welcome/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andytbeck.com/docs/welcome/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>https://andytbeck.com/docs/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andytbeck.com/docs/installation/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andytbeck.com/docs/installation/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Getting Started</title>
+      <link>https://andytbeck.com/docs/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andytbeck.com/docs/getting-started/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andytbeck.com/docs/getting-started/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>https://andytbeck.com/docs/configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andytbeck.com/docs/configuration/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andytbeck.com/docs/configuration/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Homepage Layout</title>
+      <link>https://andytbeck.com/docs/homepage-layout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andytbeck.com/docs/homepage-layout/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andytbeck.com/docs/homepage-layout/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>https://andytbeck.com/docs/shortcodes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andytbeck.com/docs/shortcodes/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andytbeck.com/docs/shortcodes/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Front Matter</title>
+      <link>https://andytbeck.com/docs/front-matter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andytbeck.com/docs/front-matter/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andytbeck.com/docs/front-matter/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Multiple Authors</title>
+      <link>https://andytbeck.com/docs/multi-author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andytbeck.com/docs/multi-author/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andytbeck.com/docs/multi-author/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Partials</title>
+      <link>https://andytbeck.com/docs/partials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andytbeck.com/docs/partials/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andytbeck.com/docs/partials/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Thumbnails</title>
+      <link>https://andytbeck.com/docs/thumbnails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andytbeck.com/docs/thumbnails/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andytbeck.com/docs/thumbnails/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Content Examples</title>
+      <link>https://andytbeck.com/docs/content-examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andytbeck.com/docs/content-examples/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andytbeck.com/docs/content-examples/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Series</title>
+      <link>https://andytbeck.com/docs/series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andytbeck.com/docs/series/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andytbeck.com/docs/series/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Advanced Customisation</title>
+      <link>https://andytbeck.com/docs/advanced-customisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andytbeck.com/docs/advanced-customisation/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andytbeck.com/docs/advanced-customisation/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Hosting &amp; Deployment</title>
+      <link>https://andytbeck.com/docs/hosting-deployment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andytbeck.com/docs/hosting-deployment/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andytbeck.com/docs/hosting-deployment/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Firebase: Views &amp; Likes</title>
+      <link>https://andytbeck.com/docs/firebase-views/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andytbeck.com/docs/firebase-views/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andytbeck.com/docs/firebase-views/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>

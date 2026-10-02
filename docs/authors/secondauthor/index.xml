@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dummy Second Author on Blowfish</title>
+    <link>https://andytbeck.com/authors/secondauthor/</link>
+    <description>Recent content in Dummy Second Author on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://andytbeck.com/authors/secondauthor/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Multiple Authors</title>
+      <link>https://andytbeck.com/samples/multiple-authors/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://andytbeck.com/samples/multiple-authors/</guid>
+      <description>A quick example of how multiple authors could be used.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andytbeck.com/samples/multiple-authors/feature.webp" />
+    </item>
+    
+  </channel>
+</rss>

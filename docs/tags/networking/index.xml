@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networking on Blowfish</title>
+    <link>https://andytbeck.com/tags/networking/</link>
+    <description>Recent content in Networking on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <atom:link href="https://andytbeck.com/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bruno Wollmann on Networking</title>
+      <link>https://andytbeck.com/users/129-3df98ce1335e5fa19060fab48b73e371/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andytbeck.com/users/129-3df98ce1335e5fa19060fab48b73e371/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andytbeck.com/users/129-3df98ce1335e5fa19060fab48b73e371/feature.webp" />
+    </item>
+    
+  </channel>
+</rss>

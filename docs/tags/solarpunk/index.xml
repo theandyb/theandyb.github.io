@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solarpunk on Blowfish</title>
+    <link>https://andytbeck.com/tags/solarpunk/</link>
+    <description>Recent content in Solarpunk on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <atom:link href="https://andytbeck.com/tags/solarpunk/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Story Seed Library</title>
+      <link>https://andytbeck.com/users/113-c7fe2437cad52bb0686e75dd3a087db7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andytbeck.com/users/113-c7fe2437cad52bb0686e75dd3a087db7/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andytbeck.com/users/113-c7fe2437cad52bb0686e75dd3a087db7/feature.webp" />
+    </item>
+    
+  </channel>
+</rss>

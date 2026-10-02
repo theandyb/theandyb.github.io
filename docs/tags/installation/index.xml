@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Installation on Blowfish</title>
+    <link>https://andytbeck.com/tags/installation/</link>
+    <description>Recent content in Installation on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <atom:link href="https://andytbeck.com/tags/installation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Installation</title>
+      <link>https://andytbeck.com/docs/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andytbeck.com/docs/installation/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andytbeck.com/docs/installation/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Getting Started</title>
+      <link>https://andytbeck.com/docs/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andytbeck.com/docs/getting-started/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://andytbeck.com/docs/getting-started/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>
